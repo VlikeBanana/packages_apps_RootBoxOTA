@@ -16,7 +16,7 @@
   -->
 
 <resources>
-    <string name="app_name">RootBox OTA</string>
+    <string name="app_name">Xylon OTA</string>
     <string name="slider_overview">Overview</string>
     <string name="slider_updates">Updates</string>
     <string name="slider_install">Install</string>
