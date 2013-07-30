@@ -109,8 +109,8 @@
             android:title="@string/settings_paranoid_android" />
         <Preference
             android:key="settings_rootbox"
-            android:summary="@string/settings_rootbox_summary"
-            android:title="@string/settings_rootbox" />
+            android:summary="@string/settings_xylon_summary"
+            android:title="@string/settings_xylon" />
     </PreferenceCategory>
 
 </PreferenceScreen>
